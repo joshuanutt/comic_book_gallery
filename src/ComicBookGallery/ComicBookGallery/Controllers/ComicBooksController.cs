@@ -21,7 +21,7 @@ namespace ComicBookGallery.Controllers
                 "colors: edgar delgado",
                 "letters: chris eliopoulos"
             };
-
+            ViewBag.Title = "The Amazing Spider-Man";
             return View();
         }
     }
